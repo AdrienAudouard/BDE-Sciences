@@ -7,21 +7,67 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A0986601E423EE2006F2CD6 /* FacebookButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A09865F1E423EE2006F2CD6 /* FacebookButton.swift */; };
+		7A0986621E423EF3006F2CD6 /* InstagramButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986611E423EF3006F2CD6 /* InstagramButton.swift */; };
+		7A0986641E423EFF006F2CD6 /* TwitterButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986631E423EFF006F2CD6 /* TwitterButton.swift */; };
+		7A0986661E423F09006F2CD6 /* YoutubeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986651E423F09006F2CD6 /* YoutubeButton.swift */; };
+		7A09866A1E424005006F2CD6 /* UIApplicationExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986691E424005006F2CD6 /* UIApplicationExt.swift */; };
+		7A09866F1E4287F7006F2CD6 /* SiteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A09866E1E4287F7006F2CD6 /* SiteButton.swift */; };
+		7A0986711E42894C006F2CD6 /* ConnectDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986701E42894C006F2CD6 /* ConnectDB.swift */; };
+		7A0986731E428ACA006F2CD6 /* EventVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986721E428ACA006F2CD6 /* EventVC.swift */; };
+		7A0986751E428DC4006F2CD6 /* Evenement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986741E428DC4006F2CD6 /* Evenement.swift */; };
+		7A0986771E429F43006F2CD6 /* EventTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986761E429F43006F2CD6 /* EventTableView.swift */; };
+		7A0986791E42A040006F2CD6 /* EventCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986781E42A040006F2CD6 /* EventCell.swift */; };
+		7A2A054D1E479E6600EB34FF /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A054C1E479E6600EB34FF /* Reachability.swift */; };
+		7A2A05501E47A31C00EB34FF /* MaterialDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A054F1E47A31C00EB34FF /* MaterialDesign.swift */; };
+		7A2A05521E47ABF100EB34FF /* VotreBDEVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A05511E47ABF100EB34FF /* VotreBDEVC.swift */; };
+		7A2A05561E47AC6F00EB34FF /* BDETableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A05551E47AC6F00EB34FF /* BDETableView.swift */; };
+		7A2A05581E47AC8700EB34FF /* BDECell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A05571E47AC8700EB34FF /* BDECell.swift */; };
+		7A2A055A1E47AC9B00EB34FF /* MembreBDE.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A05591E47AC9B00EB34FF /* MembreBDE.swift */; };
+		7A2A055C1E47B5A500EB34FF /* Mathilde.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7A2A055B1E47B5A500EB34FF /* Mathilde.jpg */; };
+		7A2A055E1E4884DD00EB34FF /* ContactVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2A055D1E4884DD00EB34FF /* ContactVC.swift */; };
 		7A30AA751E412C71000E143F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A30AA741E412C71000E143F /* AppDelegate.swift */; };
-		7A30AA771E412C71000E143F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A30AA761E412C71000E143F /* ViewController.swift */; };
+		7A30AA771E412C71000E143F /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A30AA761E412C71000E143F /* MenuVC.swift */; };
 		7A30AA7A1E412C71000E143F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A30AA781E412C71000E143F /* Main.storyboard */; };
 		7A30AA7C1E412C71000E143F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A30AA7B1E412C71000E143F /* Assets.xcassets */; };
 		7A30AA7F1E412C71000E143F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A30AA7D1E412C71000E143F /* LaunchScreen.storyboard */; };
+		7A30AA871E4136B1000E143F /* ShadowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A30AA861E4136B1000E143F /* ShadowButton.swift */; };
+		7A4773411E476F0F008E4160 /* MenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A4773401E476F0F008E4160 /* MenuButton.swift */; };
+		8813A7530C826910EF44B98A /* Pods_BDE_Science.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2B7B6BC1EF6D61DEC65B8B2 /* Pods_BDE_Science.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0765CB81C38BBAD249C379B9 /* Pods-BDE Science.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BDE Science.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science.debug.xcconfig"; sourceTree = "<group>"; };
+		7A09865F1E423EE2006F2CD6 /* FacebookButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacebookButton.swift; sourceTree = "<group>"; };
+		7A0986611E423EF3006F2CD6 /* InstagramButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstagramButton.swift; sourceTree = "<group>"; };
+		7A0986631E423EFF006F2CD6 /* TwitterButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterButton.swift; sourceTree = "<group>"; };
+		7A0986651E423F09006F2CD6 /* YoutubeButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoutubeButton.swift; sourceTree = "<group>"; };
+		7A0986691E424005006F2CD6 /* UIApplicationExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplicationExt.swift; sourceTree = "<group>"; };
+		7A09866E1E4287F7006F2CD6 /* SiteButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiteButton.swift; sourceTree = "<group>"; };
+		7A0986701E42894C006F2CD6 /* ConnectDB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectDB.swift; sourceTree = "<group>"; };
+		7A0986721E428ACA006F2CD6 /* EventVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventVC.swift; sourceTree = "<group>"; };
+		7A0986741E428DC4006F2CD6 /* Evenement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Evenement.swift; sourceTree = "<group>"; };
+		7A0986761E429F43006F2CD6 /* EventTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventTableView.swift; sourceTree = "<group>"; };
+		7A0986781E42A040006F2CD6 /* EventCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventCell.swift; sourceTree = "<group>"; };
+		7A2A054C1E479E6600EB34FF /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		7A2A054F1E47A31C00EB34FF /* MaterialDesign.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialDesign.swift; sourceTree = "<group>"; };
+		7A2A05511E47ABF100EB34FF /* VotreBDEVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VotreBDEVC.swift; sourceTree = "<group>"; };
+		7A2A05551E47AC6F00EB34FF /* BDETableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BDETableView.swift; sourceTree = "<group>"; };
+		7A2A05571E47AC8700EB34FF /* BDECell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BDECell.swift; sourceTree = "<group>"; };
+		7A2A05591E47AC9B00EB34FF /* MembreBDE.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MembreBDE.swift; sourceTree = "<group>"; };
+		7A2A055B1E47B5A500EB34FF /* Mathilde.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mathilde.jpg; sourceTree = "<group>"; };
+		7A2A055D1E4884DD00EB34FF /* ContactVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactVC.swift; sourceTree = "<group>"; };
 		7A30AA711E412C71000E143F /* BDE Science.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BDE Science.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A30AA741E412C71000E143F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7A30AA761E412C71000E143F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7A30AA761E412C71000E143F /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
 		7A30AA791E412C71000E143F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7A30AA7B1E412C71000E143F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A30AA7E1E412C71000E143F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A30AA801E412C71000E143F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A30AA861E4136B1000E143F /* ShadowButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShadowButton.swift; sourceTree = "<group>"; };
+		7A4773401E476F0F008E4160 /* MenuButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuButton.swift; sourceTree = "<group>"; };
+		A2B7B6BC1EF6D61DEC65B8B2 /* Pods_BDE_Science.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BDE_Science.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E66428FFD3C62B504BB1962C /* Pods-BDE Science.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BDE Science.release.xcconfig"; path = "Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +75,94 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8813A7530C826910EF44B98A /* Pods_BDE_Science.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7A09865D1E423EBF006F2CD6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7A2A05541E47AC0E00EB34FF /* TableView */,
+				7A2A05531E47AC0900EB34FF /* VC */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		7A09865E1E423ECA006F2CD6 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				7A30AA861E4136B1000E143F /* ShadowButton.swift */,
+				7A09865F1E423EE2006F2CD6 /* FacebookButton.swift */,
+				7A0986611E423EF3006F2CD6 /* InstagramButton.swift */,
+				7A0986631E423EFF006F2CD6 /* TwitterButton.swift */,
+				7A0986651E423F09006F2CD6 /* YoutubeButton.swift */,
+				7A09866E1E4287F7006F2CD6 /* SiteButton.swift */,
+				7A4773401E476F0F008E4160 /* MenuButton.swift */,
+			);
+			name = Button;
+			sourceTree = "<group>";
+		};
+		7A0986671E423FE7006F2CD6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7A0986681E423FEB006F2CD6 /* Extension */,
+				7A0986701E42894C006F2CD6 /* ConnectDB.swift */,
+				7A0986741E428DC4006F2CD6 /* Evenement.swift */,
+				7A2A054C1E479E6600EB34FF /* Reachability.swift */,
+				7A2A05591E47AC9B00EB34FF /* MembreBDE.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		7A0986681E423FEB006F2CD6 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				7A0986691E424005006F2CD6 /* UIApplicationExt.swift */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
+		7A2A054E1E47A30600EB34FF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7A09865E1E423ECA006F2CD6 /* Button */,
+				7A2A054F1E47A31C00EB34FF /* MaterialDesign.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		7A2A05531E47AC0900EB34FF /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				7A30AA761E412C71000E143F /* MenuVC.swift */,
+				7A0986721E428ACA006F2CD6 /* EventVC.swift */,
+				7A2A05511E47ABF100EB34FF /* VotreBDEVC.swift */,
+				7A2A055D1E4884DD00EB34FF /* ContactVC.swift */,
+			);
+			name = VC;
+			sourceTree = "<group>";
+		};
+		7A2A05541E47AC0E00EB34FF /* TableView */ = {
+			isa = PBXGroup;
+			children = (
+				7A0986761E429F43006F2CD6 /* EventTableView.swift */,
+				7A0986781E42A040006F2CD6 /* EventCell.swift */,
+				7A2A05551E47AC6F00EB34FF /* BDETableView.swift */,
+				7A2A05571E47AC8700EB34FF /* BDECell.swift */,
+			);
+			name = TableView;
+			sourceTree = "<group>";
+		};
 		7A30AA681E412C71000E143F = {
 			isa = PBXGroup;
 			children = (
 				7A30AA731E412C71000E143F /* BDE Science */,
 				7A30AA721E412C71000E143F /* Products */,
+				81AC352F197F38A4B954BC03 /* Pods */,
+				FD4D659E1008E5F2749EED7F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +177,34 @@
 		7A30AA731E412C71000E143F /* BDE Science */ = {
 			isa = PBXGroup;
 			children = (
+				7A2A055B1E47B5A500EB34FF /* Mathilde.jpg */,
+				7A2A054E1E47A30600EB34FF /* View */,
+				7A0986671E423FE7006F2CD6 /* Model */,
+				7A09865D1E423EBF006F2CD6 /* Controller */,
 				7A30AA741E412C71000E143F /* AppDelegate.swift */,
-				7A30AA761E412C71000E143F /* ViewController.swift */,
 				7A30AA781E412C71000E143F /* Main.storyboard */,
 				7A30AA7B1E412C71000E143F /* Assets.xcassets */,
 				7A30AA7D1E412C71000E143F /* LaunchScreen.storyboard */,
 				7A30AA801E412C71000E143F /* Info.plist */,
 			);
 			path = "BDE Science";
+			sourceTree = "<group>";
+		};
+		81AC352F197F38A4B954BC03 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0765CB81C38BBAD249C379B9 /* Pods-BDE Science.debug.xcconfig */,
+				E66428FFD3C62B504BB1962C /* Pods-BDE Science.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		FD4D659E1008E5F2749EED7F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A2B7B6BC1EF6D61DEC65B8B2 /* Pods_BDE_Science.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +214,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7A30AA831E412C71000E143F /* Build configuration list for PBXNativeTarget "BDE Science" */;
 			buildPhases = (
+				DDACA64B4F8E21FCAAA5D630 /* [CP] Check Pods Manifest.lock */,
 				7A30AA6D1E412C71000E143F /* Sources */,
 				7A30AA6E1E412C71000E143F /* Frameworks */,
 				7A30AA6F1E412C71000E143F /* Resources */,
+				B92F8F000825DC33C3B736CB /* [CP] Embed Pods Frameworks */,
+				5A00BD80D510CB347852B3CB /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,7 +242,7 @@
 				TargetAttributes = {
 					7A30AA701E412C71000E143F = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = M874FEDX54;
+						DevelopmentTeam = YV847X23WK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -127,18 +273,87 @@
 				7A30AA7F1E412C71000E143F /* LaunchScreen.storyboard in Resources */,
 				7A30AA7C1E412C71000E143F /* Assets.xcassets in Resources */,
 				7A30AA7A1E412C71000E143F /* Main.storyboard in Resources */,
+				7A2A055C1E47B5A500EB34FF /* Mathilde.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5A00BD80D510CB347852B3CB /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B92F8F000825DC33C3B736CB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DDACA64B4F8E21FCAAA5D630 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		7A30AA6D1E412C71000E143F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A30AA771E412C71000E143F /* ViewController.swift in Sources */,
+				7A0986621E423EF3006F2CD6 /* InstagramButton.swift in Sources */,
+				7A30AA771E412C71000E143F /* MenuVC.swift in Sources */,
+				7A2A05561E47AC6F00EB34FF /* BDETableView.swift in Sources */,
+				7A2A055A1E47AC9B00EB34FF /* MembreBDE.swift in Sources */,
+				7A4773411E476F0F008E4160 /* MenuButton.swift in Sources */,
+				7A2A05521E47ABF100EB34FF /* VotreBDEVC.swift in Sources */,
+				7A0986711E42894C006F2CD6 /* ConnectDB.swift in Sources */,
+				7A0986601E423EE2006F2CD6 /* FacebookButton.swift in Sources */,
+				7A0986641E423EFF006F2CD6 /* TwitterButton.swift in Sources */,
+				7A09866A1E424005006F2CD6 /* UIApplicationExt.swift in Sources */,
+				7A0986791E42A040006F2CD6 /* EventCell.swift in Sources */,
+				7A30AA871E4136B1000E143F /* ShadowButton.swift in Sources */,
+				7A2A05581E47AC8700EB34FF /* BDECell.swift in Sources */,
+				7A2A055E1E4884DD00EB34FF /* ContactVC.swift in Sources */,
 				7A30AA751E412C71000E143F /* AppDelegate.swift in Sources */,
+				7A09866F1E4287F7006F2CD6 /* SiteButton.swift in Sources */,
+				7A0986771E429F43006F2CD6 /* EventTableView.swift in Sources */,
+				7A0986751E428DC4006F2CD6 /* Evenement.swift in Sources */,
+				7A0986661E423F09006F2CD6 /* YoutubeButton.swift in Sources */,
+				7A2A05501E47A31C00EB34FF /* MaterialDesign.swift in Sources */,
+				7A2A054D1E479E6600EB34FF /* Reachability.swift in Sources */,
+				7A0986731E428ACA006F2CD6 /* EventVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,9 +472,10 @@
 		};
 		7A30AA841E412C71000E143F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0765CB81C38BBAD249C379B9 /* Pods-BDE Science.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = M874FEDX54;
+				DEVELOPMENT_TEAM = YV847X23WK;
 				INFOPLIST_FILE = "BDE Science/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "fr.adrienaudouard.BDE-Science";
@@ -270,9 +486,10 @@
 		};
 		7A30AA851E412C71000E143F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E66428FFD3C62B504BB1962C /* Pods-BDE Science.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = M874FEDX54;
+				DEVELOPMENT_TEAM = YV847X23WK;
 				INFOPLIST_FILE = "BDE Science/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "fr.adrienaudouard.BDE-Science";
@@ -300,6 +517,7 @@
 				7A30AA851E412C71000E143F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
