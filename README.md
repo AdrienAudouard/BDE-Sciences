@@ -15,12 +15,12 @@ The application is fed by a back office.
 
 <p align="center"> 
 <img src="https://github.com/RidazFluent/BDE-Sciences/blob/master/screenshots/IMG_1186.PNG" width="250" height="444">
-
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/RidazFluent/BDE-Sciences/blob/master/screenshots/IMG_1187.PNG" width="250" height="444">
 </p>
 
 <p align="center"> 
 <img src="https://github.com/RidazFluent/BDE-Sciences/blob/master/screenshots/IMG_1188.PNG" width="250" height="444">
-
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/RidazFluent/BDE-Sciences/blob/master/screenshots/IMG_1189.PNG" width="250" height="444">
 </p>
