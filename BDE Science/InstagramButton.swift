@@ -17,7 +17,8 @@ class InstagramButton: UIButton {
     }
     
     func openInstaAction(sender: UIButton){
-        UIApplication.tryURL(urls: urls)
+        print("test")
+        UIApplication.tryURL(urls)
     }
     
     /*

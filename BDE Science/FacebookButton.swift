@@ -17,7 +17,7 @@ class FacebookButton: UIButton {
     }
     
     func openFacebookAction(sender: UIButton){
-        UIApplication.tryURL(urls: urls)
+        UIApplication.tryURL(urls)
     }
     
     /*

@@ -12,11 +12,14 @@ import Alamofire
 
 class EventCell: UITableViewCell {
 
-    @IBOutlet weak var eventIMG: UIImageView!
+    @IBOutlet weak var eventButton: UIButton!
+
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var deskLabel: UILabel!
     @IBOutlet weak var lieuLabel: UILabel!
     @IBOutlet weak var dateLabel: UILabel!
+    
+    var event: Evenement!
     
     override func awakeFromNib() {
         super.awakeFromNib()
@@ -29,12 +32,17 @@ class EventCell: UITableViewCell {
         // Configure the view for the selected state
     }
     
+    @IBAction func imageClicked(_ sender: Any) {
+        UIApplication.tryURL([event.url])
+    }
+    
     func updateUI(event: Evenement){
+        self.event = event
         nameLabel.text = event.nom
         deskLabel.text = event.description
         lieuLabel.text = event.lieu
         dateLabel.text = event.date
-        
+        deskLabel.adjustsFontSizeToFitWidth = true
         let dateTimeFormatter = DateFormatter()
         dateTimeFormatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
         
@@ -50,7 +58,8 @@ class EventCell: UITableViewCell {
         
         Alamofire.request(event.image).responseImage{ response in
             if let image = response.result.value {
-                self.eventIMG.image = image
+                self.eventButton.setBackgroundImage(image, for: .normal)
+                //self.eventButton.setImage(image, for: .normal)
             }
             
         }

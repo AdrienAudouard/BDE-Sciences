@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - Crashlytics (3.9.3):
+    - Fabric (~> 1.7.2)
+  - Fabric (1.7.2)
+  - MARoundButton (0.1.7)
+  - SWActivityIndicatorView (2.0.0)
+  - TextFieldEffects (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Crashlytics
+  - Fabric
+  - MARoundButton
+  - SWActivityIndicatorView
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  Crashlytics: dbb07d01876c171c5ccbdf7826410380189e452c
+  Fabric: 9cd6a848efcf1b8b07497e0b6a2e7d336353ba15
+  MARoundButton: 31967f6c80b89a795075ea6593d1102320d28dac
+  SWActivityIndicatorView: b3d43933021d3e3ba08a814b43751e3f58031e87
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+
+PODFILE CHECKSUM: 32521aa387d32e0edf44cbadcf28b58863ec60a1
+
+COCOAPODS: 1.4.0.beta.2

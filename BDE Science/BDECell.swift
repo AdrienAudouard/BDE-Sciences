@@ -32,13 +32,21 @@ class BDECell: UITableViewCell {
         profilImgeView.layer.cornerRadius = profilImgeView.frame.size.width / 2
         nomLabel.text = membre.nom
         descLabel.text = membre.desc
+        descLabel.adjustsFontSizeToFitWidth = true
         
-        Alamofire.request(membre.profilImage).responseImage{ response in
-            if let image = response.result.value {
-                self.profilImgeView.image = image
+        if membre.image == nil {
+            Alamofire.request(membre.profilImage).responseImage{ response in
+                if let image = response.result.value {
+                    self.profilImgeView.image = image
+                    membre.image = image
+                }
+                
             }
-            
+        } else {
+            self.profilImgeView.image = membre.image
         }
+        
+        
     }
 
 }

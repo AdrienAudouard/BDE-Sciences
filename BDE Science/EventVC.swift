@@ -7,38 +7,40 @@
 //
 
 import UIKit
+import SpriteKit
 
 class EventVC: UIViewController {
 
     @IBOutlet weak var eventTV: EventTableView!
+    private var _loadingView: LoadingView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        self._loadingView = LoadingView.loadFromNib(vc: self)
+        showLoadingView()
+        
         let connectDB = ConnectDB()
         connectDB.getEvents(eventVC: self)
+        
+        
     }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        
-        let r = Reachability()
-        
-        if !r.isInternetAvailable(){
-            let alert = UIAlertController(title: "Tu n'as pas de connexion internet ?", message: "Alors fais pas le gamin et active ta 4G stp 😘", preferredStyle: UIAlertControllerStyle.alert)
-            alert.addAction(UIAlertAction(title: "Ok", style: UIAlertActionStyle.default, handler: {
-                (action: UIAlertAction!) -> Void in
-                self.dismiss(animated: true, completion: nil)
-            }))
-            self.present(alert, animated: true, completion: nil)
-        }
+        self.navigationController?.setNavigationBarHidden(false , animated: true)
     }
     
     func updateVC(listeEvent: [Evenement]){
         eventTV.datas = listeEvent
     }
     
-    @IBAction func backButtonPressed(_ sender: Any) {
-        self.dismiss(animated: true, completion: nil)
+    func hideLoadingView(){
+        self._loadingView.hide()
+    }
+    
+    func showLoadingView(){
+        self._loadingView.show()
     }
 
     /*

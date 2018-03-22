@@ -17,7 +17,7 @@ class YoutubeButton: UIButton {
     }
     
     func openYTAction(sender: UIButton){
-        UIApplication.tryURL(urls: urls)
+        UIApplication.tryURL(urls)
     }
     
     /*

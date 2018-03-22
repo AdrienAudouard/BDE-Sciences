@@ -7,23 +7,23 @@
 //
 
 import UIKit
+import TextFieldEffects
 
 class ContactVC: UIViewController {
 
+    @IBOutlet weak var nomLabel: HoshiTextField!
+    @IBOutlet weak var emailLabel: HoshiTextField!
+    @IBOutlet weak var messageLabel: UITextView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        
+        self.navigationController?.setNavigationBarHidden(false , animated: true)
         let r = Reachability()
         
         if !r.isInternetAvailable(){
@@ -36,14 +36,30 @@ class ContactVC: UIViewController {
         }
     }
     
-    @IBAction func backButtonPressed(_ sender: Any) {
-        self.dismiss(animated: true, completion: nil)
+    
+    @IBAction func envoyerButtonPressed(_ sender: Any) {
+        if nomLabel.text?.characters.count == 0 || emailLabel.text?.characters.count == 0 || messageLabel.text.characters.count == 0 {
+            let alert = UIAlertController(title: "Merci de remplir tous les champs !", message: "Remplis tous les champs petite feignasse.\nLa bise 😘", preferredStyle: UIAlertControllerStyle.alert)
+            alert.addAction(UIAlertAction(title: "Désolé Chef", style: UIAlertActionStyle.default, handler: nil))
+            self.present(alert, animated: true, completion: nil)
+        } else {
+            let connectDB = ConnectDB()
+            connectDB.sendEmail(contactVC: self)
+        }
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         self.view.endEditing(true)
     }
     
+    func tuer(){
+        let alert = UIAlertController(title: "Message envoyé", message: "Bien joué ça !", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "Ok", style: UIAlertActionStyle.default, handler: {
+            (action: UIAlertAction!) -> Void in
+            self.dismiss(animated: true, completion: nil)
+        }))
+        self.present(alert, animated: true, completion: nil)
+    }
     /*
     // MARK: - Navigation
 

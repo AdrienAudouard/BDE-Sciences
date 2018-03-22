@@ -7,32 +7,40 @@
 //
 
 import UIKit
+import SpriteKit
 
 class VotreBDEVC: UIViewController {
-
+    private var _loadingView: LoadingView!
     
     @IBOutlet weak var membreTableView: BDETableView!
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self._loadingView = LoadingView.loadFromNib(vc: self)
+        showLoadingView()
+        
         let connectDB = ConnectDB()
         connectDB.getMembreBDE(votreBDEVC: self)
         // Do any additional setup after loading the view.
+        
+        
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
     
     func updateVC(listeMembre: [MembreBDE]){
         membreTableView.datas = listeMembre
     }
     
+    func hideLoadingView(){
+        self._loadingView.hide()
+    }
+    
+    func showLoadingView(){
+        self._loadingView.show()
+    }
+    
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        
+        self.navigationController?.setNavigationBarHidden(false , animated: true)
         let r = Reachability()
         
         if !r.isInternetAvailable(){
@@ -43,10 +51,6 @@ class VotreBDEVC: UIViewController {
             }))
             self.present(alert, animated: true, completion: nil)
         }
-    }
-    
-    @IBAction func backButtonPressed(_ sender: Any) {
-        dismiss(animated: true, completion: nil)
     }
     
 

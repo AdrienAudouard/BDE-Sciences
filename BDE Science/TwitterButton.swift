@@ -17,7 +17,7 @@ class TwitterButton: UIButton {
     }
     
     func openTwitterAction(sender: UIButton){
-        UIApplication.tryURL(urls: urls)
+        UIApplication.tryURL(urls)
     }
     
     /*

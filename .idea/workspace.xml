@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4e8e3fe-6634-4313-9bd2-2b60cbb492f0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/festival.imageset/heavy-metal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/food.imageset/french-fries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/internet.imageset/internet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/left-arrow.imageset/left-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/linkedin.imageset/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/real-estate.imageset/real-estate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/resto.imageset/store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/right-arrow.imageset/right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/sport.imageset/rowing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/student.imageset/student.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tractor.imageset/tractor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Spark.sks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/pdp_adrien.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/pdp_julien.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/spark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/festival.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/food.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/internet.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/left-arrow.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/linkedin.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/real-estate.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/resto.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/right-arrow.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/sport.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/student.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tractor.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/CalendarVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/CategorieButton.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/ColorExtension.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/ConnectDB.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/CreditVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/LoadingView.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/LoadingView.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/Partenaire.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/PartenaireCell.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/PhotosVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/PreVentesVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/SponsorsCatesVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/SponsorsVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/SurpriseVC.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDE Science/UIApplicationExt.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Back.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Back@2x.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Back@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Back@3x.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Back@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Logo.imageset/Logo bleu BDE Sciences alt (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Logo.imageset/Logo bleu BDE Sciences alt (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/beer (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/beer (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/beer (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/beer (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/beer (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/beer (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/facebook.imageset/facebook.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/facebook.imageset/facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/instagram.imageset/instagram.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/instagram.imageset/instagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/logo.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/logox2.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/logox2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/logox3.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/logox3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/network (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/network (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/network (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/network (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/network (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/network (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/paper-plane (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/paper-plane (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/paper-plane (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/paper-plane (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/paper-plane (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/paper-plane (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/photo-camera (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/photo-camera (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/photo-camera (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/photo-camera (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/photo-camera (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/photo-camera (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/professor (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/professor (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/professor (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/professor (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/professor (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/professor (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/star (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/star (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/star (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/star (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/star (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/star (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/tickets (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/tickets (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/tickets (3).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/tickets (3).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/tickets (4).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/tickets (4).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter-1.imageset/twitter-1.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter-1.imageset/twitter-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter.imageset/twitter-1.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter.imageset/twitter-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/worldwide (1).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/worldwide (1).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/worldwide (2).png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/worldwide (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/worldwide.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/worldwide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube-1.imageset/youtube.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube-1.imageset/youtube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube.imageset/youtube.png" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube.imageset/youtube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Mathilde.jpg" afterPath="$PROJECT_DIR$/BDE Science/Mathilde.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BDE Science.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/BDE Science.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science.xcodeproj/xcuserdata/Adrien.xcuserdatad/xcschemes/BDE Science.xcscheme" afterPath="$PROJECT_DIR$/BDE Science.xcodeproj/xcuserdata/Adrien.xcuserdatad/xcschemes/BDE Science.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science.xcodeproj/xcuserdata/Adrien.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/BDE Science.xcodeproj/xcuserdata/Adrien.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/AppDelegate.swift" afterPath="$PROJECT_DIR$/BDE Science/AppDelegate.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Back.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Logo.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/Logo.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/beer.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/facebook.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/facebook.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/instagram.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/instagram.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/logo rond.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/network.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/paper-plane.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/photo-camera.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/professor.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/star.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/tickets.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter-1.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter-1.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/twitter.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/worldwide.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube-1.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube-1.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube.imageset/Contents.json" afterPath="$PROJECT_DIR$/BDE Science/Assets.xcassets/youtube.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/BDECell.swift" afterPath="$PROJECT_DIR$/BDE Science/BDECell.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/BDETableView.swift" afterPath="$PROJECT_DIR$/BDE Science/BDETableView.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Base.lproj/LaunchScreen.storyboard" afterPath="$PROJECT_DIR$/BDE Science/Base.lproj/LaunchScreen.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/BDE Science/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/ContactVC.swift" afterPath="$PROJECT_DIR$/BDE Science/ContactVC.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Evenement.swift" afterPath="$PROJECT_DIR$/BDE Science/Evenement.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/EventCell.swift" afterPath="$PROJECT_DIR$/BDE Science/EventCell.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/EventTableView.swift" afterPath="$PROJECT_DIR$/BDE Science/EventTableView.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/EventVC.swift" afterPath="$PROJECT_DIR$/BDE Science/EventVC.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/FacebookButton.swift" afterPath="$PROJECT_DIR$/BDE Science/FacebookButton.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Info.plist" afterPath="$PROJECT_DIR$/BDE Science/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/InstagramButton.swift" afterPath="$PROJECT_DIR$/BDE Science/InstagramButton.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/MaterialDesign.swift" afterPath="$PROJECT_DIR$/BDE Science/MaterialDesign.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/MembreBDE.swift" afterPath="$PROJECT_DIR$/BDE Science/MembreBDE.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/MenuButton.swift" afterPath="$PROJECT_DIR$/BDE Science/MenuButton.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/MenuVC.swift" afterPath="$PROJECT_DIR$/BDE Science/MenuVC.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/Reachability.swift" afterPath="$PROJECT_DIR$/BDE Science/Reachability.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/ShadowButton.swift" afterPath="$PROJECT_DIR$/BDE Science/ShadowButton.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/SiteButton.swift" afterPath="$PROJECT_DIR$/BDE Science/SiteButton.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/TwitterButton.swift" afterPath="$PROJECT_DIR$/BDE Science/TwitterButton.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/VotreBDEVC.swift" afterPath="$PROJECT_DIR$/BDE Science/VotreBDEVC.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDE Science/YoutubeButton.swift" afterPath="$PROJECT_DIR$/BDE Science/YoutubeButton.swift" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_87DED7E8-D8B9-4B71-817B-B93BC7B77966" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Podfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Podfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Evenement.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BDE Science/Evenement.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/BDE Science/Test.swift" />
+        <option value="$PROJECT_DIR$/BDE Science/Evenement.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="BDE Science" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="BDE Science" type="1d218c8b:XcodeProjectNode" />
+              <item name="BDE Science" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="BDE Science" type="1d218c8b:XcodeProjectNode" />
+              <item name="BDE Science" type="fcab9f18:XcodeViewNode" />
+              <item name="Controller" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="BDE Science" type="1d218c8b:XcodeProjectNode" />
+              <item name="BDE Science" type="fcab9f18:XcodeViewNode" />
+              <item name="Model" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="BDE Science" type="1d218c8b:XcodeProjectNode" />
+              <item name="BDE Science" type="fcab9f18:XcodeViewNode" />
+              <item name="Model" type="fcab9f18:XcodeViewNode" />
+              <item name="Extension" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="Pods" type="1d218c8b:XcodeProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.lonelybytes.swiftlint.Configuration" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="BDE Science" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BDE Science">
+    <configuration name="BDE Science" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BDE Science" TARGET_NAME="BDE Science" CONFIG_NAME="Debug" SCHEME_NAME="BDE Science" RUN_TARGET_PROJECT_NAME="BDE Science" RUN_TARGET_NAME="BDE Science" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e8e3fe-6634-4313-9bd2-2b60cbb492f0" name="Default" comment="" />
+      <created>1511259193213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511259193213</updated>
+      <workItem from="1511259198053" duration="737000" />
+      <workItem from="1511259963324" duration="274000" />
+      <workItem from="1511269045496" duration="118000" />
+      <workItem from="1511440080787" duration="44000" />
+      <workItem from="1511525151218" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1180000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDE Science/Evenement.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDE Science/Evenement.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDE Science/Evenement.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDE Science/Evenement.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDE Science/Test.swift" />
+    <entry file="file://$PROJECT_DIR$/BDE Science/Evenement.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -15,7 +15,15 @@ class MembreBDE {
     private var _nom: String!
     private var _desc: String!
     private var _profilImage: String!
-
+    private var _image: UIImage!
+    
+    var image: UIImage!{
+        get {
+            return self._image
+        } set {
+            self._image = newValue
+        }
+    }
     
     var nom: String {
         return self._nom

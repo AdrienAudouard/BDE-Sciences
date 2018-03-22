@@ -70,6 +70,7 @@ import UIKit
         label.frame = CGRect(x: labelX, y: labelY, width: labelWidth, height: labelHeight)
         label.textAlignment = .center
         label.font = self.titleLabel?.font
+        label.adjustsFontSizeToFitWidth = true
         
         if self.frame.width == 568 || self.frame.width == 480 {
             label.font = label.font.withSize(12.0)

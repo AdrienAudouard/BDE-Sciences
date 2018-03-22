@@ -10,14 +10,14 @@ import UIKit
 
 class SiteButton: UIButton {
 
-    private var urls = ["https://www.bdesciences.com"]
+    private var urls = ["http://www.bdesciences.com"]
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         self.addTarget(self, action: #selector(openSiteAction), for: .touchUpInside)
     }
     
     func openSiteAction(sender: UIButton){
-        UIApplication.tryURL(urls: urls)
+        UIApplication.tryURL(urls)
     }
     
     /*

@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A024CC71E66D52A00E1E76A /* SurpriseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A024CC61E66D52A00E1E76A /* SurpriseVC.swift */; };
+		7A02F30E1E76FB370051B620 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A02F30C1E76FB370051B620 /* LoadingView.swift */; };
+		7A02F30F1E76FB370051B620 /* LoadingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A02F30D1E76FB370051B620 /* LoadingView.xib */; };
 		7A0986601E423EE2006F2CD6 /* FacebookButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A09865F1E423EE2006F2CD6 /* FacebookButton.swift */; };
 		7A0986621E423EF3006F2CD6 /* InstagramButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986611E423EF3006F2CD6 /* InstagramButton.swift */; };
 		7A0986641E423EFF006F2CD6 /* TwitterButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0986631E423EFF006F2CD6 /* TwitterButton.swift */; };
@@ -33,11 +36,28 @@
 		7A30AA7F1E412C71000E143F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A30AA7D1E412C71000E143F /* LaunchScreen.storyboard */; };
 		7A30AA871E4136B1000E143F /* ShadowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A30AA861E4136B1000E143F /* ShadowButton.swift */; };
 		7A4773411E476F0F008E4160 /* MenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A4773401E476F0F008E4160 /* MenuButton.swift */; };
+		7A61598A1E589B38003FD258 /* SponsorsCatesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6159891E589B38003FD258 /* SponsorsCatesVC.swift */; };
+		7A61598C1E589EA9003FD258 /* CategorieButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A61598B1E589EA9003FD258 /* CategorieButton.swift */; };
+		7A61598E1E58A228003FD258 /* SponsorsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A61598D1E58A228003FD258 /* SponsorsVC.swift */; };
+		7AEB10851E58A75300CC6D8D /* PartenaireCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB10841E58A75300CC6D8D /* PartenaireCell.swift */; };
+		7AEB10871E58A83300CC6D8D /* Partenaire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB10861E58A83300CC6D8D /* Partenaire.swift */; };
+		7AEB10891E58B50100CC6D8D /* PhotosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB10881E58B50100CC6D8D /* PhotosVC.swift */; };
+		7AEB108B1E58B51100CC6D8D /* PreVentesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB108A1E58B51100CC6D8D /* PreVentesVC.swift */; };
+		7AEB108E1E59A88B00CC6D8D /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AEB108C1E59A88B00CC6D8D /* spark.png */; };
+		7AEB108F1E59A88B00CC6D8D /* Spark.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7AEB108D1E59A88B00CC6D8D /* Spark.sks */; };
+		7AEB10CB1E5AF36700CC6D8D /* CreditVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB10CA1E5AF36700CC6D8D /* CreditVC.swift */; };
+		7AEB10CD1E5AF45600CC6D8D /* pdp_adrien.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7AEB10CC1E5AF45600CC6D8D /* pdp_adrien.jpg */; };
+		7AEB10D01E5AFBE500CC6D8D /* pdp_julien.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7AEB10CF1E5AFBE500CC6D8D /* pdp_julien.jpg */; };
+		7AEB10E21E63401100CC6D8D /* CalendarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB10E11E63401100CC6D8D /* CalendarVC.swift */; };
+		7AEB10E61E6342C600CC6D8D /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AEB10E51E6342C600CC6D8D /* ColorExtension.swift */; };
 		8813A7530C826910EF44B98A /* Pods_BDE_Science.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2B7B6BC1EF6D61DEC65B8B2 /* Pods_BDE_Science.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0765CB81C38BBAD249C379B9 /* Pods-BDE Science.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BDE Science.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science.debug.xcconfig"; sourceTree = "<group>"; };
+		7A024CC61E66D52A00E1E76A /* SurpriseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SurpriseVC.swift; sourceTree = "<group>"; };
+		7A02F30C1E76FB370051B620 /* LoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		7A02F30D1E76FB370051B620 /* LoadingView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoadingView.xib; sourceTree = "<group>"; };
 		7A09865F1E423EE2006F2CD6 /* FacebookButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacebookButton.swift; sourceTree = "<group>"; };
 		7A0986611E423EF3006F2CD6 /* InstagramButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstagramButton.swift; sourceTree = "<group>"; };
 		7A0986631E423EFF006F2CD6 /* TwitterButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterButton.swift; sourceTree = "<group>"; };
@@ -66,6 +86,20 @@
 		7A30AA801E412C71000E143F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A30AA861E4136B1000E143F /* ShadowButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShadowButton.swift; sourceTree = "<group>"; };
 		7A4773401E476F0F008E4160 /* MenuButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuButton.swift; sourceTree = "<group>"; };
+		7A6159891E589B38003FD258 /* SponsorsCatesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SponsorsCatesVC.swift; sourceTree = "<group>"; };
+		7A61598B1E589EA9003FD258 /* CategorieButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategorieButton.swift; sourceTree = "<group>"; };
+		7A61598D1E58A228003FD258 /* SponsorsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SponsorsVC.swift; sourceTree = "<group>"; };
+		7AEB10841E58A75300CC6D8D /* PartenaireCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PartenaireCell.swift; sourceTree = "<group>"; };
+		7AEB10861E58A83300CC6D8D /* Partenaire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Partenaire.swift; sourceTree = "<group>"; };
+		7AEB10881E58B50100CC6D8D /* PhotosVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosVC.swift; sourceTree = "<group>"; };
+		7AEB108A1E58B51100CC6D8D /* PreVentesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreVentesVC.swift; sourceTree = "<group>"; };
+		7AEB108C1E59A88B00CC6D8D /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		7AEB108D1E59A88B00CC6D8D /* Spark.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Spark.sks; sourceTree = "<group>"; };
+		7AEB10CA1E5AF36700CC6D8D /* CreditVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreditVC.swift; sourceTree = "<group>"; };
+		7AEB10CC1E5AF45600CC6D8D /* pdp_adrien.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pdp_adrien.jpg; sourceTree = "<group>"; };
+		7AEB10CF1E5AFBE500CC6D8D /* pdp_julien.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pdp_julien.jpg; sourceTree = "<group>"; };
+		7AEB10E11E63401100CC6D8D /* CalendarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarVC.swift; sourceTree = "<group>"; };
+		7AEB10E51E6342C600CC6D8D /* ColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		A2B7B6BC1EF6D61DEC65B8B2 /* Pods_BDE_Science.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BDE_Science.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E66428FFD3C62B504BB1962C /* Pods-BDE Science.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BDE Science.release.xcconfig"; path = "Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -101,6 +135,7 @@
 				7A0986651E423F09006F2CD6 /* YoutubeButton.swift */,
 				7A09866E1E4287F7006F2CD6 /* SiteButton.swift */,
 				7A4773401E476F0F008E4160 /* MenuButton.swift */,
+				7A61598B1E589EA9003FD258 /* CategorieButton.swift */,
 			);
 			name = Button;
 			sourceTree = "<group>";
@@ -113,6 +148,7 @@
 				7A0986741E428DC4006F2CD6 /* Evenement.swift */,
 				7A2A054C1E479E6600EB34FF /* Reachability.swift */,
 				7A2A05591E47AC9B00EB34FF /* MembreBDE.swift */,
+				7AEB10861E58A83300CC6D8D /* Partenaire.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -128,8 +164,11 @@
 		7A2A054E1E47A30600EB34FF /* View */ = {
 			isa = PBXGroup;
 			children = (
+				7A02F30C1E76FB370051B620 /* LoadingView.swift */,
+				7A02F30D1E76FB370051B620 /* LoadingView.xib */,
 				7A09865E1E423ECA006F2CD6 /* Button */,
 				7A2A054F1E47A31C00EB34FF /* MaterialDesign.swift */,
+				7AEB10E51E6342C600CC6D8D /* ColorExtension.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -137,10 +176,17 @@
 		7A2A05531E47AC0900EB34FF /* VC */ = {
 			isa = PBXGroup;
 			children = (
+				7AEB10E11E63401100CC6D8D /* CalendarVC.swift */,
 				7A30AA761E412C71000E143F /* MenuVC.swift */,
 				7A0986721E428ACA006F2CD6 /* EventVC.swift */,
 				7A2A05511E47ABF100EB34FF /* VotreBDEVC.swift */,
 				7A2A055D1E4884DD00EB34FF /* ContactVC.swift */,
+				7A6159891E589B38003FD258 /* SponsorsCatesVC.swift */,
+				7A61598D1E58A228003FD258 /* SponsorsVC.swift */,
+				7AEB10881E58B50100CC6D8D /* PhotosVC.swift */,
+				7AEB108A1E58B51100CC6D8D /* PreVentesVC.swift */,
+				7AEB10CA1E5AF36700CC6D8D /* CreditVC.swift */,
+				7A024CC61E66D52A00E1E76A /* SurpriseVC.swift */,
 			);
 			name = VC;
 			sourceTree = "<group>";
@@ -152,6 +198,7 @@
 				7A0986781E42A040006F2CD6 /* EventCell.swift */,
 				7A2A05551E47AC6F00EB34FF /* BDETableView.swift */,
 				7A2A05571E47AC8700EB34FF /* BDECell.swift */,
+				7AEB10841E58A75300CC6D8D /* PartenaireCell.swift */,
 			);
 			name = TableView;
 			sourceTree = "<group>";
@@ -177,7 +224,7 @@
 		7A30AA731E412C71000E143F /* BDE Science */ = {
 			isa = PBXGroup;
 			children = (
-				7A2A055B1E47B5A500EB34FF /* Mathilde.jpg */,
+				7AEB10CE1E5AF46300CC6D8D /* Ressources */,
 				7A2A054E1E47A30600EB34FF /* View */,
 				7A0986671E423FE7006F2CD6 /* Model */,
 				7A09865D1E423EBF006F2CD6 /* Controller */,
@@ -188,6 +235,26 @@
 				7A30AA801E412C71000E143F /* Info.plist */,
 			);
 			path = "BDE Science";
+			sourceTree = "<group>";
+		};
+		7AEB10901E59A88F00CC6D8D /* Sprites */ = {
+			isa = PBXGroup;
+			children = (
+				7AEB108C1E59A88B00CC6D8D /* spark.png */,
+				7AEB108D1E59A88B00CC6D8D /* Spark.sks */,
+			);
+			name = Sprites;
+			sourceTree = "<group>";
+		};
+		7AEB10CE1E5AF46300CC6D8D /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				7AEB10901E59A88F00CC6D8D /* Sprites */,
+				7A2A055B1E47B5A500EB34FF /* Mathilde.jpg */,
+				7AEB10CF1E5AFBE500CC6D8D /* pdp_julien.jpg */,
+				7AEB10CC1E5AF45600CC6D8D /* pdp_adrien.jpg */,
+			);
+			name = Ressources;
 			sourceTree = "<group>";
 		};
 		81AC352F197F38A4B954BC03 /* Pods */ = {
@@ -220,6 +287,7 @@
 				7A30AA6F1E412C71000E143F /* Resources */,
 				B92F8F000825DC33C3B736CB /* [CP] Embed Pods Frameworks */,
 				5A00BD80D510CB347852B3CB /* [CP] Copy Pods Resources */,
+				7A3F9B861F56E7C800D5B738 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -242,7 +310,8 @@
 				TargetAttributes = {
 					7A30AA701E412C71000E143F = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = YV847X23WK;
+						DevelopmentTeam = M874FEDX54;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -270,10 +339,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AEB108E1E59A88B00CC6D8D /* spark.png in Resources */,
 				7A30AA7F1E412C71000E143F /* LaunchScreen.storyboard in Resources */,
 				7A30AA7C1E412C71000E143F /* Assets.xcassets in Resources */,
 				7A30AA7A1E412C71000E143F /* Main.storyboard in Resources */,
+				7AEB10CD1E5AF45600CC6D8D /* pdp_adrien.jpg in Resources */,
 				7A2A055C1E47B5A500EB34FF /* Mathilde.jpg in Resources */,
+				7A02F30F1E76FB370051B620 /* LoadingView.xib in Resources */,
+				7AEB108F1E59A88B00CC6D8D /* Spark.sks in Resources */,
+				7AEB10D01E5AFBE500CC6D8D /* pdp_julien.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,15 +369,39 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		B92F8F000825DC33C3B736CB /* [CP] Embed Pods Frameworks */ = {
+		7A3F9B861F56E7C800D5B738 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" 7cab03b93503e195427bf69e4951785153a7ba07 ed6be7e15886928348d97d5173be11334ed30377293b32f57f2317ebbefe69c5";
+		};
+		B92F8F000825DC33C3B736CB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-BDE Science/Pods-BDE Science-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/MARoundButton/MARoundButton.framework",
+				"${BUILT_PRODUCTS_DIR}/SWActivityIndicatorView/SWActivityIndicatorView.framework",
+				"${BUILT_PRODUCTS_DIR}/TextFieldEffects/TextFieldEffects.framework",
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MARoundButton.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SWActivityIndicatorView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TextFieldEffects.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -316,13 +414,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BDE Science-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -334,26 +435,38 @@
 			files = (
 				7A0986621E423EF3006F2CD6 /* InstagramButton.swift in Sources */,
 				7A30AA771E412C71000E143F /* MenuVC.swift in Sources */,
+				7A61598A1E589B38003FD258 /* SponsorsCatesVC.swift in Sources */,
 				7A2A05561E47AC6F00EB34FF /* BDETableView.swift in Sources */,
 				7A2A055A1E47AC9B00EB34FF /* MembreBDE.swift in Sources */,
 				7A4773411E476F0F008E4160 /* MenuButton.swift in Sources */,
 				7A2A05521E47ABF100EB34FF /* VotreBDEVC.swift in Sources */,
+				7AEB10CB1E5AF36700CC6D8D /* CreditVC.swift in Sources */,
+				7AEB108B1E58B51100CC6D8D /* PreVentesVC.swift in Sources */,
 				7A0986711E42894C006F2CD6 /* ConnectDB.swift in Sources */,
+				7A024CC71E66D52A00E1E76A /* SurpriseVC.swift in Sources */,
 				7A0986601E423EE2006F2CD6 /* FacebookButton.swift in Sources */,
 				7A0986641E423EFF006F2CD6 /* TwitterButton.swift in Sources */,
 				7A09866A1E424005006F2CD6 /* UIApplicationExt.swift in Sources */,
 				7A0986791E42A040006F2CD6 /* EventCell.swift in Sources */,
 				7A30AA871E4136B1000E143F /* ShadowButton.swift in Sources */,
+				7AEB10871E58A83300CC6D8D /* Partenaire.swift in Sources */,
 				7A2A05581E47AC8700EB34FF /* BDECell.swift in Sources */,
 				7A2A055E1E4884DD00EB34FF /* ContactVC.swift in Sources */,
 				7A30AA751E412C71000E143F /* AppDelegate.swift in Sources */,
+				7AEB10851E58A75300CC6D8D /* PartenaireCell.swift in Sources */,
+				7A02F30E1E76FB370051B620 /* LoadingView.swift in Sources */,
 				7A09866F1E4287F7006F2CD6 /* SiteButton.swift in Sources */,
+				7AEB10E61E6342C600CC6D8D /* ColorExtension.swift in Sources */,
 				7A0986771E429F43006F2CD6 /* EventTableView.swift in Sources */,
 				7A0986751E428DC4006F2CD6 /* Evenement.swift in Sources */,
 				7A0986661E423F09006F2CD6 /* YoutubeButton.swift in Sources */,
 				7A2A05501E47A31C00EB34FF /* MaterialDesign.swift in Sources */,
+				7AEB10891E58B50100CC6D8D /* PhotosVC.swift in Sources */,
 				7A2A054D1E479E6600EB34FF /* Reachability.swift in Sources */,
 				7A0986731E428ACA006F2CD6 /* EventVC.swift in Sources */,
+				7A61598C1E589EA9003FD258 /* CategorieButton.swift in Sources */,
+				7AEB10E21E63401100CC6D8D /* CalendarVC.swift in Sources */,
+				7A61598E1E58A228003FD258 /* SponsorsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,7 +532,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -462,7 +575,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -474,11 +587,14 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0765CB81C38BBAD249C379B9 /* Pods-BDE Science.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YV847X23WK;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = M874FEDX54;
 				INFOPLIST_FILE = "BDE Science/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "fr.adrienaudouard.BDE-Science";
+				PRODUCT_BUNDLE_IDENTIFIER = "fr.adrienaudouard.BDE-Sciences";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -488,11 +604,14 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E66428FFD3C62B504BB1962C /* Pods-BDE Science.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YV847X23WK;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = M874FEDX54;
 				INFOPLIST_FILE = "BDE Science/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "fr.adrienaudouard.BDE-Science";
+				PRODUCT_BUNDLE_IDENTIFIER = "fr.adrienaudouard.BDE-Sciences";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
